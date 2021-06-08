@@ -1,0 +1,44 @@
+body {
+    min-height: 80vh;
+    display: grid;
+    place-items: center;
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+    background-color: #F1F5F8;
+}
+
+.contenedor {
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 0.25rem;
+    margin-bottom: 0.75rem;
+    font-size: 4rem;
+    color: #102A42;
+}
+
+#valor-contador {
+    font-size: 6rem;
+    font-weight: bold;
+    color: #222222;
+}
+
+button {
+    margin: 0.5rem;
+    text-transform: uppercase;
+    background: transparent;
+    color: black;
+    padding: 0.1rem 0.75rem;
+    cursor: pointer;
+    font-size: 0.875rem;
+    border: 2px solid #222222;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 20%);
+    border-radius: 0.5rem;
+    letter-spacing: 0.25rem;
+}
+
+button:hover {
+    color: white;
+    background-color: #222222;
+}
