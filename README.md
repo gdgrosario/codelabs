@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/3HpbmmQ.jpg" alt="Codelabs" />
 </div>
 
-<h1 align="center">Codelabs</h1>
+<h1 align="center">CodeLabs</h1>
 
 
 <!-- Status -->
@@ -18,6 +18,12 @@
 Los CodeLabs son un espacio virtual en los que se busca compartir conocimiento acerca de distintas tecnologías. 
 Actualmente contamos con dos laboratorios: **"Study JS"** y **"Study HTML/CSS"** en los que se busca profundizar el conocimiento en JavaScript y en HTML/CSS.
 
+¡Súmate a la comunidad!
+
+👾 [Discord](https://discord.gg/g2fcxVd)
+🐦 [Twitter](https://twitter.com/GDGRosarioAR)
+📷 [Instagram](https://www.instagram.com/gdgrosarioar/)
+🌐 [Google Developers Group Page](https://gdg.community.dev/gdg-rosario/)
 
 ## :rocket: Proyectos ##
 
@@ -34,29 +40,29 @@ Actualmente contamos con dos laboratorios: **"Study JS"** y **"Study HTML/CSS"**
 - [Código Fuente](https://github.com/gdgrosario/codelabs/tree/main/Study_HTML-CSS/02-tareas)
 
 :small_orange_diamond: **[Study JS] Generador de Colores**
-- [DEMO]()
+- DEMO
 - [Código Fuente](https://github.com/gdgrosario/codelabs/tree/main/Study_JS/02-generador-de-colores)
 
 :small_blue_diamond: **[Study HTML/CSS] Citas Célebres**
-- [DEMO]()
+- DEMO
 - [Código Fuente](https://github.com/gdgrosario/codelabs/tree/main/Study_HTML-CSS/03-citas%20celebres)
 
 :small_orange_diamond: **[Study JS] Video Reproducir/Pausar**
-- [DEMO]()
+- DEMO
 - [Código Fuente](https://github.com/gdgrosario/codelabs/tree/main/Study_JS/03-video)
 
 :small_blue_diamond: **[Study HTML/CSS] Mobile Blog**
-- [DEMO]()
-- [Código Fuente]()
+- DEMO
+- Código Fuente
 
 :small_orange_diamond: **[Study JS] Biografías**
-- [DEMO]()
-- [Código Fuente]()
+- DEMO
+- Código Fuente
 
 :small_blue_diamond: **[Study HTML/CSS] Verifica Tu Cuenta**
-- [DEMO]()
-- [Código Fuente]()
+- DEMO
+- Código Fuente
 
 :small_orange_diamond: **[Study JS] Textos Aleatorios**
-- [DEMO]()
-- [Código Fuente]()
+- DEMO
+- Código Fuente
