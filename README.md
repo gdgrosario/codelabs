@@ -21,8 +21,11 @@ Actualmente contamos con dos laboratorios: **"Study JS"** y **"Study HTML/CSS"**
 ¡Súmate a la comunidad!
 
 👾 [Discord](https://discord.gg/g2fcxVd)
+
 🐦 [Twitter](https://twitter.com/GDGRosarioAR)
+
 📷 [Instagram](https://www.instagram.com/gdgrosarioar/)
+
 🌐 [Google Developers Group Page](https://gdg.community.dev/gdg-rosario/)
 
 ## :rocket: Proyectos ##
