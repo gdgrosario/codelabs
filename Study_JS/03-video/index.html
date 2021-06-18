@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <!-- preloader -->
+    <div class="preloader">
+      <img src="assets/preloader.gif" alt="preloader" class="preloader__item" />
+    </div>
+    <!-- header -->
+    <header>
+      <video controls muted autoplay loop class="video-container">
+        <source src="assets/video.mp4" type="video/mp4" />
+      </video>
+      <!-- video switch -->
+      <button class="switch-btn">
+        <span>
+          Reproducir
+        </span>
+        <span>
+          Pausar
+        </span>
+        <span class="switch"></span>
+      </button>
+    </header>
+    <script src="assets/js/script.js"></script>
+  </body>
+</html>
