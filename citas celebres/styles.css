@@ -1,0 +1,27 @@
+@import "button.css";
+@import "card.css";
+@import "wrapper.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --fontBase: 'Roboto', sans-serif;
+  --black: #12100c;
+  --grey: #818181;
+  --backGradient: linear-gradient(40deg, #4458d0 16%, #c050c1 46%, #fdc873 83%);
+  --white: #ffffff;
+  --btnColor: #9f68e0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--backGradient);
+  font-family: var(--fontBase);
+  min-block-size: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
