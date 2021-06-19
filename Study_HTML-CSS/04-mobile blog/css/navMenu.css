@@ -1,0 +1,62 @@
+.mainNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background: var(--white);
+  margin: 0;
+  padding: 0;
+}
+
+.navMenu {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+}
+
+i,
+a {
+  color: var(--gray);
+  text-decoration: none;
+}
+
+li:hover,
+a:hover,
+i:hover {
+  color: var(--violeta);
+}
+
+a:active,
+i:active {
+  color: var(--violeta);
+}
+/*TABLET*/
+@media screen and (min-width: 768px) {
+  .navMenu {
+    column-gap: 100px;
+    font-size: 1.5rem;
+  }
+}
+
+/*PANTALLAS PEQUEÑAS*/
+@media screen and (min-width: 280px) {
+  .navMenu {
+    column-gap: 20px;
+  }
+}
+/*PANTALLAS GRANDE*/
+@media screen and (min-width: 1521px) {
+  .navMenu {
+    column-gap: 100px;
+  }
+}
+/*PANTALLAS GRANDE*/
+@media screen and (min-width: 1024px) {
+  .navMenu {
+    column-gap: 80px;
+  }
+}

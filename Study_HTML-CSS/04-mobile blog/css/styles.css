@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+@import "navMenu.css";
+@import "wrapper.css";
+@import "imgBack.css";
+
+:root {
+  --gray: #777777;
+  --white: #ffffff;
+  --violeta: #8e44ad;
+  --kangaroo: url(../img/kangaroo.jpg);
+  --mainFont: "Rubik", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--mainFont);
+  overflow: hidden;
+}
+
+@media screen and (min-width: 1024px) {
+  body {
+    background-image: var(--kangaroo);
+    background-position: 40% 21%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+@media screen and (min-width: 1521px) {
+  body {
+    background-image: var(--kangaroo);
+    background-position: 100% 100% ;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
